@@ -1,0 +1,29 @@
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe.config
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.pdb
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Form1.resources
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Properties.Resources.resources
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.GenerateResource.Cache
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.exe
+c:\users\ertam-pc\documents\visual studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.pdb
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe.config
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.exe
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.pdb
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.pdb
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csprojResolveAssemblyReference.cache
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Form1.resources
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Properties.Resources.resources
+C:\Users\ERTAM-PC\Desktop\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.GenerateResource.Cache
+C:\Users\ERTAM-PC\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.AssemblyReference.cache
+C:\Users\ERTAM-PC\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe.config
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.exe
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\bin\Debug\Kuyruk VeYığın Projesi.pdb
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.AssemblyReference.cache
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Form1.resources
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk_VeYığın_Projesi.Properties.Resources.resources
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.GenerateResource.cache
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk Ve Yığın Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.exe
+C:\Users\Aybars\Documents\Visual Studio 2015\Projects\Kuyruk VeYığın Projesi\Kuyruk VeYığın Projesi\obj\Debug\Kuyruk VeYığın Projesi.pdb
